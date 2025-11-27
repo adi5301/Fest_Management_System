@@ -14,7 +14,7 @@ To run this project on your local machine, follow these steps:
 
 **Clone the repository:**
    ```bash
-   git clone git@github.com:ajaydhaked/Fest_Management_System.git
+   git clone https://github.com/adi5301/Fest_Management_System.git
    ```
 **Enter Directory:**
    ```
